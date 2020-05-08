@@ -1,0 +1,60 @@
+.no{
+    background-color: blueviolet;
+    border: 2px solid black;
+    
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    
+}
+
+label{
+    padding: 20px 20px 20px 0;
+    display: inline-block;
+    margin-left: 20px;
+    width: 270px;
+    
+}
+
+.button{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#area{
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   height: 300px;
+   width:300px ;
+}   
+
+p{
+    text-align: center;
+    color:purple;
+    font-size: 30pt;
+}
+#par{
+    text-align: center;
+    color:green  ;
+    font-size: 30pt;
+}
+#para{
+    text-align: center;
+    color:purple  ;
+    font-size: 30pt;
+}
